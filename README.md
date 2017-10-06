@@ -1,7 +1,7 @@
 # Arus
 ## Theme for Arus
 
-This folder contains the aeromax theme files.
+This folder contains the **arus** theme files.
 
 Tree catalogs & files:
 * assets/
